@@ -1,0 +1,9 @@
+{
+	"version": 1,
+	"attached_datasets": [
+		{
+			"id": "c71be09a-e6d3-4b25-9242-3470934d1643",
+			"mount": "gene_to_fasta"
+		}
+	]
+}
